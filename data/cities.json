@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443333197"
+    },
+    {
+      "id": "18d4",
+      "cityName": "Agudo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-12T09:36:15.412Z",
+      "notes": "",
+      "position": {
+        "lat": "38.95940879245423",
+        "lng": "-4.855957031250001"
+      }
+    },
+    {
+      "id": "e305",
+      "cityName": "Tomar",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-08-12T09:36:57.031Z",
+      "notes": "",
+      "position": {
+        "lat": "39.554883059924016",
+        "lng": "-8.327636718750002"
+      }
+    },
+    {
+      "id": "efa1",
+      "cityName": "Calvorde",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-08-12T09:37:19.371Z",
+      "notes": "",
+      "position": {
+        "lat": "52.429222277955134",
+        "lng": "11.25"
+      }
+    }
+  ]
+}
